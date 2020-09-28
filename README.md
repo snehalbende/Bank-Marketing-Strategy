@@ -1,0 +1,4 @@
+# Bank-Marketing-Strategy
+
+Bank marketing is an important factor to get potential customers by focusing on their needs and satisfaction. The campaign involves various strategies to attract more clients such as population which will tell which category of population is more involved, price as the offer should be worth the money, where the campaign is taking place and how, implementing strategies that will rectify previous mistakes and improve customer relationship. 
+The strategies could involve a lot of parameters like the education and occupation of the customer, loans that the customer has, the month that he is being contacted in, the number of times a customer has to be called for pursuing him for term deposit and follow ups. The objective of our analysis is to increase the term depositors by enhancing the marketing strategies. Eventually, this will also result in success of the bank.
